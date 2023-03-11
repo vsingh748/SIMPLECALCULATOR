@@ -1,0 +1,52 @@
+*{
+    font-family: monospace;
+    background-color: rgb(224,224,224);
+}
+
+.calculator{
+    border: 2px solid black;
+    width: 40vw;
+    height: 80vh;
+    margin-left: 30vw;
+    margin-top: 10vh;
+    background-color: #A0A0A0;
+    align-items: center;
+    text-align: center;
+    
+ 
+}
+
+.calculator:hover{
+    box-shadow: 0.2rem 0.2rem 1rem black;
+}
+
+h1{
+   
+    background-color: #A0A0A0
+    
+}
+
+.container
+{
+    border: 2px solid black;
+    width: 90%;
+    margin-left: 5%;
+    height: 80%;
+    
+}
+
+.output{
+    
+    background-color: #202020;
+    height: 30%;
+}
+
+.input{
+   
+    height: 70%;
+    background-color: #404040;
+}
+
+#cal-table{
+    font-size: 3rem;
+}
